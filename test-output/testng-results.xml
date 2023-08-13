@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-08-07T23:16:13 IST" name="Opencart App Test" finished-at="2023-08-07T23:16:21 IST" duration-ms="8334">
+  <suite started-at="2023-08-13T21:05:15 IST" name="Opencart App Test" finished-at="2023-08-13T21:05:34 IST" duration-ms="19119">
     <groups>
     </groups>
-    <test started-at="2023-08-07T23:16:13 IST" name="Test Basics 1" finished-at="2023-08-07T23:16:21 IST" duration-ms="8334">
+    <test started-at="2023-08-13T21:05:15 IST" name="Test Basics 1" finished-at="2023-08-13T21:05:34 IST" duration-ms="19119">
       <class name="qa.demo.pageTest.LoginTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:qa.demo.pageTest.LoginTest@5c44c582]" started-at="2023-08-07T23:16:13 IST" name="setUp" finished-at="2023-08-07T23:16:21 IST" duration-ms="7779" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:qa.demo.pageTest.LoginTest@65b3a85a]" started-at="2023-08-13T21:05:15 IST" name="setUp" finished-at="2023-08-13T21:05:32 IST" duration-ms="17470" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="headersTest()[pri:0, instance:qa.demo.pageTest.LoginTest@5c44c582]" started-at="2023-08-07T23:16:21 IST" name="headersTest" finished-at="2023-08-07T23:16:21 IST" duration-ms="252" status="PASS">
+        <test-method signature="headersTest()[pri:0, instance:qa.demo.pageTest.LoginTest@65b3a85a]" started-at="2023-08-13T21:05:32 IST" name="headersTest" finished-at="2023-08-13T21:05:33 IST" duration-ms="796" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- headersTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:qa.demo.pageTest.LoginTest@5c44c582]" started-at="2023-08-07T23:16:21 IST" name="tearDown" finished-at="2023-08-07T23:16:21 IST" duration-ms="252" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:qa.demo.pageTest.LoginTest@65b3a85a]" started-at="2023-08-13T21:05:33 IST" name="tearDown" finished-at="2023-08-13T21:05:34 IST" duration-ms="697" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

@@ -6,6 +6,8 @@
 	<listeners>
 		<listener
 			class-name="qa.demo.listeners.Extent_Listener"/>
+	<listener
+			class-name="qa.demo.listeners.Allure_Listener"/>
 	</listeners>
 	
 <test name="Test Basics 1">
