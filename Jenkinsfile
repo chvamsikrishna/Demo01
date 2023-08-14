@@ -80,8 +80,7 @@ pipeline
             steps {
                 catchError(buildResult: 'SUCCESS', stageResult: 'FAILURE') {
                     git 'https://github.com/chvamsikrishna/Demo01.git'
-                    sh "mvn clean test -Dsurefire.suiteXmlFiles="C:/Users/Niranjan/Documents/Java_Eclipse_Practice/Demo/Demo_TestNG.xmL"
-                    
+                    sh "mvn clean test -Dsurefire.suiteXmlFiles=C:/Users/Niranjan/Documents/Java_Eclipse_Practice/Demo/Demo_TestNG.xmL"    
                 }
             }
         }
