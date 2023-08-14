@@ -40,11 +40,12 @@ public class Login_Class {
 		return sideHeader;
 	}
 	
-	public void login(String username, String password)
+	public void login(String username, String password) throws InterruptedException
 	{
 		
 		driver.findElement(email).sendKeys("vamsi@gmail.com");
 		driver.findElement(pass).sendKeys("automation");
+		Thread.sleep(5000);
 		driver.findElement(login).click();
 	
 	}

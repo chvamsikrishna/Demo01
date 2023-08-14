@@ -67,7 +67,7 @@
 					<forkCount>3</forkCount>
 					<!--<argLine>-Xmx1024m -XX:MaxPermSize=256m</argLine>-->
 					<suiteXmlFiles>
-						<suiteXmlFile>C:\Users\Niranjan\Documents\Java_Eclipse_Practice\Demo\Demo_TestNG.xml</suiteXmlFile>
+						<suiteXmlFile>C:/Users/Niranjan/Documents/Java_Eclipse_Practice/Demo/Demo_TestNG.xmL</suiteXmlFile>
  
  					<!-- <suiteXmlFile> ${suiteXmlFiles} </suiteXmlFile> -->
  
